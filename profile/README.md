@@ -61,13 +61,13 @@ AI & Research
 <td align="center" width="33%">
 <img src="https://assets.techforge.pranab.xyz/assets/Pushkar.jpg" width="150"><br>
 <b>Pushkar Pal</b><br>
-Mechanical Design
+Electronics & Hardware
 </td>
 
 <td align="center" width="33%">
 <img src="https://assets.techforge.pranab.xyz/assets/Sidharth.png" width="150"><br>
 <b>Sidharth Jangid</b><br>
-Electronics & Hardware
+CAD Design
 </td>
 
 <td></td>
