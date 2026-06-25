@@ -59,7 +59,7 @@ AI & Research
 
 <tr>
 <td align="center" width="33%">
-<img src="https://assets.techforge.pranab.xyz/assets/Pushkar.jpg" width="150"><br>
+<img src="https://assets.techforge.pranab.xyz/assets/Pushkar.png" width="150"><br>
 <b>Pushkar Pal</b><br>
 Electronics & Hardware
 </td>
